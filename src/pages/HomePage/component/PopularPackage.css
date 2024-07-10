@@ -1,0 +1,16 @@
+.popular-package {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 2px solid gainsboro;
+}
+.popular-package_title {
+  margin: 0;
+}
+.popular-package_button {
+  border-radius: 2px;
+  border: 3px solid black;
+  width: fit-content;
+  padding: 10px 40px;
+  margin: auto;
+}

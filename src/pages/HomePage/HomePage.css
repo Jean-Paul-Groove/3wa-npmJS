@@ -1,0 +1,9 @@
+.homepage {
+  padding: 50px;
+  text-align: center;
+}
+.homepage_package-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+}

@@ -1,0 +1,26 @@
+.resultCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: gainsboro;
+  padding: 10px 50px;
+}
+.resultCard_info_title {
+  margin: 0;
+}
+.resultCard_info_tag {
+  background-color: white;
+  border: 2px solid gray;
+  padding: 5px 15px;
+  width: fit-content;
+}
+.resultCard_info_tag-container {
+  display: flex;
+  gap: 15px;
+}
+.resultCard_button {
+  background-color: black;
+  color: white;
+  border-radius: 1px;
+  padding: 10px 40px;
+}

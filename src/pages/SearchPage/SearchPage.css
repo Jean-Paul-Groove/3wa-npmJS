@@ -1,0 +1,8 @@
+.search-list {
+  display: grid;
+  grid-template-columns: 1;
+  gap: 20px;
+  list-style: none;
+  margin: none;
+  padding: 50px 100px;
+}
